@@ -1,0 +1,23 @@
+npm install -g npm-check-updates
+ncu
+ncu -u     //to upgrade package.json
+remove
+
+npm i  //устанавливает все пакеты из package.json
+-----------------------------
+node.js 
+npm i gulp -g
+npm init  // инициализирует проект
+npm i gulp --save-dev
+npm i gulp-sass --save-dev
+npm i browser sync --save-dev
+npm i -g bower //для установки сторонних плагинов
+bower i jquery magnific-popup
+npm i gulp-concat gulp-uglifyjs --save-dev
+npm i gulp-cssnano gulp-rename --save-dev //сжатие и переименование 
+npm install gulp-rsync --save-dev
+npm i --save-dev gulp-imagemin imagemin-pngquant
+npm i gulp-cache --save-dev кэш картинок
+npm i --save-dev gulp-autoprefixer
+npm i del --save-dev
+npm i --save-dev gulp-clean-css
